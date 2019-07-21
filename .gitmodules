@@ -1,0 +1,9 @@
+[submodule "SafetyClient"]
+	path = SafetyClient
+	url = https://github.com/StormNightN/SafetyClient.git
+[submodule "SafetyServer"]
+	path = SafetyServer
+	url = https://github.com/StormNightN/SafetyServer.git
+[submodule "SafetyCommonLibrary"]
+	path = SafetyCommonLibrary
+	url = https://github.com/StormNightN/SafetyCommonLibrary.git
